@@ -35,3 +35,5 @@ Our Support Agent, John, sees this is a Sev-A ticket and assigns it to a System 
 System Administrator Jane logs in and works the issue until resolution. She communicates with Ken, who made the ticket, about the status of his ticket and makes sure the Support Agent, John, sees the update on the ticket as well. She also makes sure to switch the ticket status to Resolved.
 
 <img width="714" height="717" alt="image" src="https://github.com/user-attachments/assets/c4e3087a-b67c-45a8-bb25-4ff02639ec21" />
+
+This was a simple example of a ticket being resolved. There will be cases where tickets may change departments multiple times, getting reassigned to more qualified agents/departments and the severity being escalated to different levels. It all depends on the business impact. 
