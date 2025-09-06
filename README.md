@@ -28,4 +28,10 @@ User Ken creates a ticket. In this example, Ken is reporting that his employers 
 
 <img width="665" height="735" alt="image" src="https://github.com/user-attachments/assets/8627620b-f260-48cc-8713-a6ca29cc0ef9" />
 
-Our Support Agent, John, sees this is a Sev-A ticket and assigns it to a System Administrator.
+Our Support Agent, John, sees this is a Sev-A ticket and assigns it to a System Administrator. He makes sure to assign a proper message to the department. 
+
+<img width="891" height="547" alt="image" src="https://github.com/user-attachments/assets/0b8d7acc-006f-45d2-8ab0-aabcac7deb99" />
+
+System Administrator Jane logs in and works the issue until resolution. She communicates with Ken, who made the ticket, about the status of his ticket and makes sure the Support Agent, John, sees the update on the ticket as well. She also makes sure to switch the ticket status to Resolved.
+
+<img width="714" height="717" alt="image" src="https://github.com/user-attachments/assets/c4e3087a-b67c-45a8-bb25-4ff02639ec21" />
